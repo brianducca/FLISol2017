@@ -14,12 +14,12 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { AngularFireModule } from 'angularfire2';
 // incluido para firebase
 export const firebaseConfig = {
-  apiKey: "",
-    authDomain: "",
-    databaseURL: "https://firebaseio.com",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: ""
+  apiKey: "AIzaSyDpeeXIwqO-og9bZ7lvMi8I4S6NTDSqMvM",
+    authDomain: "testfrisol.firebaseapp.com",
+    databaseURL: "https://testfrisol.firebaseio.com",
+    projectId: "testfrisol",
+    storageBucket: "testfrisol.appspot.com",
+    messagingSenderId: "810582055255"
 };
 @NgModule({
   declarations: [
